@@ -1,0 +1,4 @@
+URL=http://localhost/login.do
+Browser=Chrome
+Environment=QA
+buildName=build001
